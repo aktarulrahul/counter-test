@@ -1,0 +1,28 @@
+.container {
+  padding: 30px 60px;
+  text-align: center;
+  background-color: azure;
+  border-radius: 5px;
+}
+.button {
+  background-color: #61dafb;
+  border: none;
+  color: black;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 0 5px;
+  cursor: pointer;
+  border-radius: 2px;
+}
+
+.button:hover {
+  background-color: #282c34;
+  color: white;
+}
+
+.count {
+  font-size: 1.5rem;
+  margin: 10px 0;
+}
